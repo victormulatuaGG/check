@@ -57,7 +57,7 @@ export default {
         return {
             employee: employee,
             issues: [],
-            project_id: 21304083,
+            project_id: 34999725,
             statistics: [],
             loading: false,
             percent: 0,
