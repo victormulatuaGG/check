@@ -84,7 +84,7 @@ export default {
     data(){
         return{
             milestones: [],
-            project_id: 21304083,
+            project_id: 34999725,
             selected_milestone: null,
             loading: false,
             percent: 0,
