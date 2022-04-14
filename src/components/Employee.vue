@@ -50,7 +50,7 @@ import employeeData from "../data/employee.json";
 import axios from "axios"
 
 const employee = employeeData;
-const token = "glpat-cvppuvi75js6C_wEXZAn"
+const token = "glpat-QABrVzxNdbAMeqRWKiKP"
 const baseurl = "https://gitlab.com/api/v4"
 export default {
     data(){
